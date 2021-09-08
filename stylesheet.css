@@ -1,0 +1,40 @@
+body {
+    background-color: #9acebd;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: center;
+}
+h1 {
+    font-family:'Courier New', Courier, monospace;
+    font-size:60px
+}
+
+h2, h3 {
+    font-family:'Courier New', Courier, monospace;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #79b8a5;
+}
+  
+li {
+    float:left;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+/* Change the link color on hover */
+li a:hover {
+    background-color: #65aa95;
+}
+
