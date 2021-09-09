@@ -4,6 +4,11 @@ body {
     color: white;
     text-align: center;
 }
+
+p {
+    padding:0px 500px 100px 500px;
+}
+
 h1 {
     font-family:'Courier New', Courier, monospace;
     font-size:60px
@@ -41,4 +46,8 @@ li a:hover {
 a {
     color:white;
     text-decoration:none;
+}
+
+i {
+    color:#65aa95;
 }
