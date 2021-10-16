@@ -5,13 +5,11 @@ body {
     text-align: center;
 }
 
-p {
-    padding:0px 500px 100px 500px;
-}
-
 h1 {
     font-family:'Courier New', Courier, monospace;
-    font-size:60px
+    font-size: 60px;
+    padding: 20px 0px 20px;
+    font-weight: 700;
 }
 
 h2, h3 {
@@ -20,7 +18,7 @@ h2, h3 {
 
 ul {
     list-style-type: none;
-    margin: 0;
+    margin: 15px;
     padding: 0;
     overflow: hidden;
     background-color: #79b8a5;
@@ -38,7 +36,6 @@ li a {
     text-decoration: none;
 }
   
-/* Change the link color on hover */
 li a:hover {
     background-color: #65aa95;
 }
@@ -48,6 +45,14 @@ a {
     text-decoration:none;
 }
 
+a:hover {
+    color: white;
+}
+
 i {
     color:#65aa95;
+}
+
+p {
+    text-align:left;
 }
