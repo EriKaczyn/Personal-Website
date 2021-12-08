@@ -1,5 +1,6 @@
 body {
-    background-color: #9acebd;
+    /*background-color: #9acebd;*/
+    background-color: #70a6c2;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     color: white;
     text-align: center;
@@ -9,7 +10,7 @@ h1 {
     font-family:'Courier New', Courier, monospace;
     font-size: 60px;
     padding: 20px 0px 20px;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 h2, h3 {
@@ -21,7 +22,8 @@ ul {
     margin: 15px;
     padding: 0;
     overflow: hidden;
-    background-color: #79b8a5;
+    /*background-color: #79b8a5;*/
+    background-color: #275879;
 }
   
 li {
@@ -37,7 +39,8 @@ li a {
 }
   
 li a:hover {
-    background-color: #65aa95;
+    /*background-color: #65aa95;*/
+    background-color: #183b57;
 }
 
 a {
@@ -50,7 +53,8 @@ a:hover {
 }
 
 i {
-    color:#65aa95;
+    /*color:#65aa95;*/
+    color:#183b57;
 }
 
 p {
